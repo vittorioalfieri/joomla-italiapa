@@ -1,0 +1,9 @@
+/* JCE Editor CSS */
+/* permette all'editor JCE di caricare i corretti stili in fase di edit */
+/* (C) Alfieri Vittorio */
+@import url('../build/build.css');
+@import url('../build/build.italia.css');
+@import url('prism.min.css');
+@import url('tooltip-theme-arrows.css');
+@import url('italiapa.css');
+@import url('user.css');
